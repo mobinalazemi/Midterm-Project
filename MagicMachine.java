@@ -3,6 +3,7 @@ public class MagicMachine {
      * edit this main function and call the magicMachine() function in it.
      */
     public static void main(String[] args) {
+        System.out.println(x:"hello");
 
     }
 
