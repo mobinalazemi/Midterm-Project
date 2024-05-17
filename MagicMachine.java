@@ -3,7 +3,7 @@ public class MagicMachine {
      * edit this main function and call the magicMachine() function in it.
      */
     public static void main(String[] args) {
-        System.out.println(x:"hello");
+        System.out.println(x:"Hello World!");
 
     }
 
@@ -15,6 +15,6 @@ public class MagicMachine {
      * @return the output string of machine
      */
     public static String magicMachineFunction(int n, int[][] array, String input) {
-        return null;
+        return n
     }
 }
